@@ -14,6 +14,7 @@ int sub(int a, int b){
 
 int multi(int a, int b){
     // 掛け算の処理を記入する
+    return a * b;
 }
 
 
